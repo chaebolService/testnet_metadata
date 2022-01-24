@@ -1,0 +1,47 @@
+{
+	"name": "Majin Jojo #9342",
+	"image_url": "https://raw.githubusercontent.com/chaebolService/testnet_metadata/main/images/N_004_008_010_006_012_005_011_008_008.jpg",
+	"description": "一個有錢的富豪，公子哥，有錢到沒地方花，想收集世界上所有奇珍異服及機械配備，喜歡把所有的配件穿戴在身上，只是想炫富，不懂得時尚，但有趣又具衝突感的造型，卻意外吸引眾人的目光。",
+	"traits": [
+		{
+			"trait_type": "Level",
+			"value": "N"
+		},
+		{
+			"trait_type": "Background",
+			"value": "004"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Curls"
+		},
+		{
+			"trait_type": "Suit",
+			"value": "Sweater"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Dog"
+		},
+		{
+			"trait_type": "Ear",
+			"value": "Elves"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Beard"
+		},
+		{
+			"trait_type": "Nose",
+			"value": "Snivel"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Pirate"
+		}
+	]
+}
